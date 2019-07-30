@@ -1,0 +1,12 @@
+vagrant-ubuntu1804-ansible
+vagrant-ubuntu1804-ansible-ansible
+
+[vagrant-kitchen]
+vagrant-ubuntu1804-ansible
+vagrant-ubuntu1804-ansible-ansible
+
+[linux]
+vagrant-ubuntu1804-ansible
+vagrant-ubuntu1804-ansible-ansible
+
+[windows]
