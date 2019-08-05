@@ -1,1 +1,0 @@
-{"build":"xxxx","parentbox":"bento/ubuntu-18.04","parentboxversion":"201906.18.0","vbboxsha1hash":"7e770620eecd7e78512f494c09c8794fa019a3d4","esxiboxsha1hash":"acddc452e7bbe1398b6aff5eccc309830b03b821"}
