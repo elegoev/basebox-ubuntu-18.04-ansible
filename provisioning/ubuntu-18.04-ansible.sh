@@ -15,4 +15,4 @@ sudo apt install -y git ansible
 DATE=`date +%Y%m%d%H%M`
 
 ANSIBLE_VERSION=$(ansible --version | sed -n 1p | grep ansible | awk  '{print $2}')
-echo "$ANSIBLE_VERSION.$DATE" > /vagrant/version
+echo "ansible-$ANSIBLE_VERSION" > /vagrant/version
