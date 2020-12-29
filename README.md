@@ -1,6 +1,6 @@
 # ubuntu-18.04-ansible
 
-Vagrant Box with Ubuntu 18.04 and ansible
+Vagrant Box with Ubuntu 18.04 and Ansible
 
 ## Base image
 
@@ -35,7 +35,7 @@ Repository follows sematic versioning  [![semantic versioning](https://img.shiel
 
 ### Changelog
 
-For all notable changes see [CHANGELOG](https://github.com/elegoev/basebox-ubuntu-18.04-anible/blob/master/CHANGELOG.md)
+For all notable changes see [CHANGELOG](https://github.com/elegoev/basebox-ubuntu-18.04-ansible/blob/master/CHANGELOG.md)
 
 ### License
 

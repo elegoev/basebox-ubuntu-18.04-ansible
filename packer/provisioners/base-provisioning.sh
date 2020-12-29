@@ -3,7 +3,13 @@
 # install ansible
 sudo apt-add-repository ppa:ansible/ansible
 sudo apt update
+echo "sleep 5 seconds"
+sleep 5
+
 sudo apt install python-pip -y
+echo "sleep 5 seconds"
+sleep 5
+
 sudo pip install "pywinrm>=0.2.2"
 sudo apt install ansible -y
 

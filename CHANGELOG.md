@@ -1,14 +1,13 @@
 # Change Log
 
-## 1.0.0
+## 1.0.x
 
 **Implemented enhancements:**
 
-- Initial version
+- Ansible installation
 
 ## 2.0.x
 
 **Implemented enhancements:**
 
-- Build process migrated to packer
-- Base image migrated to `ubuntu/bionic64`
+- Packer build process
