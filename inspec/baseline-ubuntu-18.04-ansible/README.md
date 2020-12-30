@@ -1,3 +1,3 @@
-# Inspec `baseline-ubuntu-18.04` Profile
+# Inspec `baseline-ubuntu-18.04-ansible` Profile
 
-Inspec profile for basebox-ubuntu-18.04
+Inspec profile for basebox-ubuntu-18.04-ansible
