@@ -10,4 +10,4 @@
 
 **Implemented enhancements:**
 
-- Packer build process
+- Packer build implemented
