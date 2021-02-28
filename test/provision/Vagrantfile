@@ -2,8 +2,8 @@ Vagrant.configure("2") do |config|
 
     $basebox_name="basebox-ubuntu-18.04-ansible-test"
     $basebox_hostname="ubuntu-1804-ansible-test"
-    $src_image_name="elegoev/ubuntu-18.04"
-    $src_image_version="2.0.1609256225"
+    $src_image_name="#{ENV["SRC_IMAGE_NAME"]}"
+    $src_image_version="#{ENV["SRC_IMAGE_VERSION"]}"
 
     scriptlist = Array[]
     scriptlist = Dir.glob("../../packer/provisioners/*").sort    
